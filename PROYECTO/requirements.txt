@@ -1,0 +1,9 @@
+python-telegram-bot
+transformers
+torch  # Necesario para transformers
+gtts
+language-tool-python #
+Flask  # Flask es necesario para la gestión del webhook
+gunicorn  # Servidor WSGI recomendado por Heroku
+nest_asyncio
+python-telegram-bot[webhooks]
